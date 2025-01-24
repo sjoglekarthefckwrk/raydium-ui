@@ -221,6 +221,13 @@ export const TOKENS: Tokens = {
     referrer: '4ntxDv95ajBbXfZyGy3UhcQDx8xmH1yJ6eKvuNNH466x',
     tags: ['raydium']
   },
+  FCKWRK: {
+  symbol: 'FCKWRK',
+  name: 'theFCKWRK Memecoin',
+  mintAddress: '4JiVQNhtYc7uvEdscWi7sHY4jh8K9fX3u8qGiyJmj9dv',
+  decimals: 9,
+    tags: ['raydium'] // Adjust the tag to describe your token
+},
   SRM: {
     symbol: 'SRM',
     name: 'Serum',
